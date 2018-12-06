@@ -1,1 +1,2 @@
-Initial Foo Commit
+1 Initial Foo Commit
+2 Nwe Version 1.0 Released
